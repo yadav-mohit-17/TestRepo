@@ -4,18 +4,18 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.jenkins</groupId>
-	<artifactId>Jenkins_Webapp</artifactId>
+	<artifactId>Jenkins_Webapp_3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>Jenkins_Webapp Maven Webapp</name>
+	<name>Jenkins_Webapp_3 Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>8</maven.compiler.source>
-		<maven.compiler.target>8</maven.compiler.target>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
 	</properties>
 
 	<dependencies>
@@ -34,7 +34,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>Jenkins_Webapp</finalName>
+		<finalName>Jenkins_Webapp_3</finalName>
 		<pluginManagement>
 			<!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
 			<plugins>
