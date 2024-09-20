@@ -1,1 +1,1 @@
-<h1 style="color:red; text-align: center">Welcome to Jenkins</h1>
+<h1 style="color:blue; text-align: center">Welcome to Jenkins</h1>
